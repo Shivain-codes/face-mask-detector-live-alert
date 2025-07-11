@@ -75,7 +75,7 @@ Compile and train model with Keras
 
 Save as mask_detector_model.h5
 🧠 Model Training — train_mask_detector.py
-Load dataset from Kaggle – Face Mask Dataset
+Load dataset from Kaggle – https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset/data
 
 Resize and normalize images
 
@@ -183,4 +183,5 @@ This project is licensed under the MIT License.
 Shivain Gupta
 📧 shivaingupta999@gmail.com
 🔗 LinkedIn :  https://www.linkedin.com/in/shivain-gupta-827772346/
-    GitHub
+    GitHub   :  https://github.com/Shivain-codes/face-mask-detector-live-alert
+    
